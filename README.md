@@ -23,9 +23,5 @@ Sebelum melakukan memulai konfigurasu router Mikrotik kalian dapat mendownload k
 Setelah Melakukan Instalasi Router OS pada virtual box kalian dapat melakukan remote Router dengan menggunakan Winbox.
 
 1. Pertama Bukan Winbox
-
-![Logo](https://imgbox.com/v2nbNmiW)
-
-
-
+![Login Winbox](https://github.com/dhimasdityaa/Networking/assets/51267241/c069306c-2200-45a6-ba5b-0d274911b703)
 
